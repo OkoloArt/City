@@ -1,0 +1,108 @@
+<resources>
+    <string name="app_name">City</string>
+
+    <string name="temples">Temples</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="shopping">Shopping Centers</string>
+    <string name="cinemas">Cinemas</string>
+    <string name="coffee">Coffee Shops</string>
+
+    <!-- TEMPLES -->
+    <string name="mahabodhi_temple">Mahabodhi Temple</string>
+    <string name="ankor_wat">Ankor Wat</string>
+    <string name="wat_rong_khun">Wat Rong Khun - White Temple</string>
+    <string name="temple_of_hatshepsut">Mortuary Temple of Hatshepsut</string>
+    <string name="lotus_temple">Lotus Temple</string>
+
+    <!-- TEMPLES DESCRIPTION -->
+    <string name="mahabodhi_temple_description">The Mahabodhi Temple or the Mahābodhi Mahāvihāra, a UNESCO World Heritage Site, is an ancient,
+        but rebuilt and restored Buddhist temple in Bodh Gaya, Bihar, India, marking the location where the Buddha is said to have attained enlightenment.Bodh Gaya is 15 km from Gaya and is about 96 km from Patna.</string>
+    <string name="ankor_wat_description">Angkor Wat is a temple complex in Cambodia, located on a site measuring 162.6 hectares.
+        The Guinness World Records considers it as the largest religious structure in the world.</string>
+    <string name="wat_rong_khun_description">Known as the “White Temple,” this temple represents the purity and sacredness of Lord Buddha and his wisdom, built with elements of Buddhist and Hinduism. It was constructed by Chiang Rai-born visual artist and painter Chalermchai Kositpipat.
+        The temple comes alive each year at The Wat Rong Khun Light Fest. Notice the modern icons such as Superman and spaceships to tell the life and teachings of Buddha on murals.</string>
+    <string name="temple_of_hatshepsut_description">The mortuary temple of Hatshepsut is a mortuary temple built during the reign of Pharaoh Hatshepsut of the Eighteenth Dynasty of Egypt.
+        Located opposite the city of Luxor, it is considered to be a masterpiece of ancient architecture.</string>
+    <string name="lotus_temple_description">The Lotus Temple, located in New Delhi, India, is a Baháʼí House of Worship that was dedicated in December 1986. Notable for its lotus-like shape, it has become a prominent attraction in the city.
+        Like all Bahá’í Houses of Worship, the Lotus Temple is open to all, regardless of religion or any other qualification.</string>
+
+    <!-- RESTAURANTS -->
+    <string name="eleven_madison_park">Eleven Madison Park</string>
+    <string name="frantzen">Frantzen</string>
+    <string name="arzak">Arzak</string>
+    <string name="slanted_door">Slanted Door</string>
+    <string name="steirereck">Steirereck</string>
+
+    <!-- RESTAURANTS DESCRIPTION -->
+    <string name="eleven_madison_park_description">Eleven Madison park is a fine dining restaurant, based in the heart of New York. It’s the first North-American restaurant on the list.
+        Eleven Madison Park is famous for the amazing factor like card tricks, surprising gifts from waiters, meat grinders on the table and many more and brings the restaurant into our top.</string>
+    <string name="frantzen_description">Dazzle in Stockholm, Sweden, Proud to be having two Michelin Stars. Chef Bjorn Frantzén’s food is a unique fusion of classic and modern techniques.
+        The incredible use of organic ingredients are what sets this restaurant apart from its companions. The return of Stockholm’s most creative cook sees a brand new space and mind blowing menus. This combined with Asian and Far Eastern techniques and influences make it a hit on a global scale.</string>
+    <string name="arzak_description">Arzak is in San Sebastián,Spain very much popular for its flavored dining. It’s deeply rooted in tradition and boasts creativity and a constant research of change.
+        It all starts from its unique lab which is filled with limitless tested Flavours and spices, It’s cuisines are all about its research and pinch of magic.They introduced new concepts in the food industry and redesigned its menu. A place to eat,to discover,to experience.</string>
+    <string name="slanted_door_description">Situated in the ferry building with a lovely view of the Bay Bridge in San Francisco. This venue can accommodate a huge range of foodies. Slanted Door is the best Vietnamese restaurant in the world.
+        It’s Daikin Rice Cakes, wood over roasted Manila clams, and mouthwatering Grilled grass fed Anderson ranch lamb rack, keep you wondering again and again. It’s a bit expensive restaurant but worth a try because you fall in love with the food.</string>
+    <string name="steirereck_description">A very formal restaurant with terraces,where white gloved waiters serve you its creative cuisines in Vienna, Austria.
+        Chef Heinz Reitbauer shared its signature dish,the fresh mountain fish tossed with beeswax and served with yellow carrot, pollen and sour cream. It is Loved by locals and visitors a lot.</string>
+
+    <!-- SHOPPING CENTRES -->
+    <string name="istanbul_cevahir">Istanbul Cevahir</string>
+    <string name="ala_moana">Ala Moana Shopping Center</string>
+    <string name="siam_paragon">Siam Paragon</string>
+    <string name="mall_of_asia">Mall of Asia</string>
+    <string name="west_edmonton">West Edmonton Mall</string>
+
+    <!-- SHOPPING CENTRES DESCRIPTION -->
+    <string name="istanbul_cevahir_description">This large Istanbul mall boasts a huge glass roof and one of the largest clocks in the world.
+        In addition to a variety of retail stores and restaurants, it has 12 cinemas, a roller coaster and other entertainment options to please guests who want a break from shopping and eating.</string>
+    <string name="ala_moana_description">This Honolulu landmark is the world’s largest open-air shopping mall.It has over 290 retail outlets and boasts one of the world’s largest food courts.
+        It is also an entertainment destination since it contains one of the most popular public amphitheaters in Hawaii.</string>
+    <string name="siam_paragon_description">Containing an opera hall, a movie theater, a luxury hotel, a bowling alley, an art gallery and the Siam Ocean World Aquarium in addition to a wide array of restaurants and stores,
+        this Bangkok mall is one of the largest in Asia. Since its opening in 2005, the Siam Paragon has become a popular destination for tourists from around the world.</string>
+    <string name="mall_of_asia_description">Located in the Philippines, this mall has 4.2 million square feet of space. It has a great selection of stores and restaurants and a dizzying array of entertainment options.
+        Some popular attractions include a multi-story IMAX screen, a skating rink and the Nido Fortified Science Discovery Center.</string>
+    <string name="west_edmonton_description">This amazing mall has 800 stores, a variety of restaurants and food stands, themed areas, a haunted house, a 3-D fun house, the world’s largest indoor triple-loop roller coaster,
+        an amusement park, a miniature golf course, the largest indoor water park in the world, night clubs, an indoor lake containing live sea lions, a petting zoo, a shooting range, a full-size replica of the Santa Maria, a hotel, cinemas, radio stations and more.</string>
+
+    <!-- CINEMAS -->
+    <string name="pathe_tuschinski">Pathé Tuschinski</string>
+    <string name="le_grand_rex">Le Grand Rex</string>
+    <string name="village_east_cinema">Village East Cinema</string>
+    <string name="the_civic">The Civic</string>
+    <string name="rio_cinema">Rio Cinema</string>
+
+    <!-- CINEMAS DESCRIPTION -->
+    <string name="pathe_tuschinski_description">A plaque to this palatial cinema’s founder, Abram Icek Tuschinski, adorns its ornate lobby wall. A Jewish émigré from Poland, Tuschinski never got to grow old with his dream picture palace – the Nazis saw to that – but its elegant mash-up of art deco and art nouveau styles with sleek modernist touches brings his dream to life daily for movie-mad Amsterdammers.
+        These days it’s owned by Pathé and was recently refurbished with original touches, like the Wurlitzer-Strunk organ, left untouched and the historic wall paintings restored to their original specs. There’s a stylish new bar – Bar Abraham – paying tribute to its founder and serving up movie-inspired cocktails to thirsty filmgoers. Our advice? Make a pilgrimage to this opulent, historic shrine to the movies. Phil de Semlyen</string>
+    <string name="le_grand_rex_description">Much more than just a cinema and concert hall, Le Grand Rex is one of the capital’s most cherished cultural institutions. The Grands Boulevards area didn’t need much tszujing up, but Auguste Bluysen’s building is magnificent even by the standards of this vast web of opulent avenues. With its huge Art Deco façade and constantly flashing screens,
+        the building adds a brilliantly gaudy splash of New York to this rather uniform, limestone-hued part of town. There are seven screens, the biggest of which can hold a whopping 2,400 spectators. This is where you’ll catch the city’s ritziest premieres: everything from Hitchcock’s The Birds to Star Wars had their first French screening here. Houssine Bouchama</string>
+    <string name="village_east_cinema_description">With its unassuming facade and East Village dive bar neighbours, you wouldn’t expect to find anything too out of the ordinary at this five–screen cinema. And If you catch a film in theaters 2–5, your middle-of-the-road expectations will be met.
+        But lucky are those who get assigned to theater 1: They’ll be entering a gorgeous, 440-seat Moorish Revival movie palace, constructed in the 1920s in what was once the heart of NYC’s Yiddish Theatre District. (Judaic references, including a large Star of David in the dome, can be found throughout.) The ornate space is a seriously magical place to watch a film. Will Gleason</string>
+    <string name="the_civic_description">Opened at the dawn of cinema’s talkie era, this slice of New Zealand history now hosts gigs, plays and ballet too. But it was always conceived as an old-fashioned picture palace, with its entrepreneurial founder Thomas O’Brien going big on budget (£200,000),
+        scale (2379 seats) and Eastern design flourishes (look out for the Buddhas in the lobby) to make it the standout movie venue in the southern hemisphere. The Great Depression sent a bankrupted O’Brien packing, but The Civic has stood the test of time: a very literal temple to moviegoing in Auckland whose thousand illuminated stars on its auditorium ceiling feel well earned. Phil de Semlyen</string>
+    <string name="rio_cinema_description">The screening rooms at the Rio are curvy. The seats swing around in an arch, the walls are painted in swirls of colour. And that’s not even the prettiest feature of this extremely pretty east London indie cinema. That would be its tall facade: an Art Deco gem of straight lines, pastel colours and what looks like Papyrus font.
+        That’s thanks to the work of cult architect FE Bromige. He gave the cinema – which had been open back in 1909 – a makeover in the 1930s. And, down to the exterior of the Mad Man-esque bar, his look stuck. Even with its modern restorations, you experience it almost exactly as he designed it. Seeing it from across Kingsland High Street – surrounded by hip clubs, a trendy pizza joint and a KFC – is like being haunted by an extremely chic and large ghost. Kate Lloyd</string>
+
+    <!-- COFFEE SHOPS -->
+    <string name="the_roastery_by_nozy">The Roastery by Nozy Coffee Cafe</string>
+    <string name="rosetta_roastery">Rosetta Roastery</string>
+    <string name="simple_kaffa">Simple Kaffa</string>
+    <string name="heart_coffee">Heart Coffee Roasters</string>
+    <string name="bonanza_coffee">Bonanza Coffee</string>
+
+    <!-- COFFEE SHOPS DESCRIPTION -->
+    <string name="the_roastery_by_Nozy_description">Tired of sipping your coffee from crockery? Well at Tokyo’s hippest coffee joint, you can sip your espresso straight from a champagne glass.
+        Or, for something lighter, try their ever-popular americano coffee and lattes. The coffee shot is conveniently located on Cat Street in Harajuku too, so it’s easy enough to come back for more.</string>
+    <string name="rosetta_roastery_description">Proudly serving some of South Africa’s best cups of coffee since 2010, Rosetta Roastery is an award-winning local coffee shop and roastery.
+        It’s conveniently located along Bree Street, Cape Town’s culinary hotspot. Inside it’s all green marble and dark wood –a haven for those with interiors fetishes –but it’s not all about good looks. Try the Kyoto-style cold brew or a simple, smooth flat white.</string>
+    <string name="simple_kaffa_description">Simple Kaffa is the creation of a former Taiwan and World Barista Champion and they are famous in Taipei for their cappuccinos. We’re calling it for the 3rd year in a row: this coffee shop is world-class.
+        Its flagship store on bustling Zhongxiao East Road is a design dream, where art and coffee are combined. Get their Dark Brown Sugar Latte or their Cappuccino –You can’t go wrong with either!</string>
+    <string name="heart_coffee_description">Portland is practically a pilgrimage site for speciality coffee. Founded by Finland-native Wille YLi-Luoma in 2009, there are now three Heart Coffee Roasters locations across the city,
+        each tastefully decorated Scandi-cool style. The beans are roasted to lighter-than-average perfection and they’ve gained a cult following for their high-quality espresso drinks.</string>
+    <string name="bonanza_coffee_description">Stop the press, we’ve found the best flat white in Berlin –and in a city full of coffeeshops, that’s saying something. According to the website, Bonanza serves up ‘unnecessarily good’ coffee, and we agree.
+        The secret? Arabica coffee sourced from the likes of Colombia and Ethiopia, roasted on-site for longer than you’d expect and lovingly served by passionate baristas.
+        Once you’ve finished the coffee take a walk around the 7 most Instagrammable spots in Berlin.</string>
+    <string name="back_button">Back</string>
+
+
+</resources>
